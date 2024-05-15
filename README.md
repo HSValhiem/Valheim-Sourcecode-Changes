@@ -15,9 +15,6 @@
   
 ![image](https://github.com/HSValhiem/Valheim-Sourcecode-Changes/assets/18600015/28304d8b-9c0e-4f2c-97fa-817a0fb2ad21)
 
-### Use Notepad++ to Remove Token Tags with Regex
-- ^\s*\/\/\s*\((get|add|remove|[^\)]+)\). and ^\s*\/\/\s*Token.*$ and ^\s*Token.*$
-
 ### Use WinMerge to Check Differerances
 - Open the old version dump directory as left side and new version dump directory as right side in Minmerge and Compare
 
